@@ -1,0 +1,78 @@
+#MB_overlay {
+	position: absolute;
+	margin: auto;
+	top: 0;	left: 0;
+	width: 100%; height: 100%;
+	z-index: 9999;
+	background-color: black;
+}
+#MB_overlay[id] { position: fixed; }
+
+#MB_window {
+	position:absolute;
+	top: 0;
+	border: 0 solid silver;
+	text-align:left;
+	z-index:10000;
+}
+#MB_window[id] { position: fixed!important; }
+
+#MB_frame {
+	position:relative;
+	background-color: white;
+	height:100%;
+}
+
+#MB_header {
+	margin:0;
+	height: 28px;	
+	background-color: gray;
+
+}
+
+#MB_content {
+	padding: 6px .75em;
+	overflow:auto;
+}
+
+#MB_caption {
+	font-weight:bold;
+	font: Verdana, Arial, Helvetica, sans-serif;
+	font-size:20px;
+	text-shadow: #FFF 0 1px 0;
+	margin: 0;
+	text-align: center;
+}
+
+#MB_close {
+	display:block;
+	position:absolute;
+	right:5px; top:4px;
+	padding:2px 3px;
+	font-weight:bold;
+	text-decoration:none;
+	font-size:16px;
+}
+#MB_close:hover {
+	background:transparent;
+}
+
+#MB_loading {
+	padding: 1.5em;
+	text-indent: -10000px;
+	background: transparent url(images/www.gif) 50% 0 no-repeat;
+}
+
+/* Color scheme */
+#MB_window {
+	background-image:url(images/fundocaderno.gif);
+	color:#000;
+}
+#MB_content { border-top: 1px solid silver; }
+#MB_header {
+  background-color:ciano;
+  border-bottom: 1px solid silver;
+}
+#MB_caption { color:#fff; font-family: Verdana, Arial, Helvetica, sans-serif; font-size:18px; 	 }
+#MB_close { color:#000 }
+#MB_close:hover { color:#000 }

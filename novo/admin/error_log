@@ -1,0 +1,64 @@
+[06-Dec-2005 16:23:33] PHP Warning:  opendir(../images/noticias/46/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:23:33] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:23:39] PHP Warning:  main(../noticias/noticias_lista.php): failed to open stream: No such file or directory in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:23:39] PHP Warning:  main(): Failed opening '../noticias/noticias_lista.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:23:48] PHP Warning:  opendir(../images/noticias/45/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:23:48] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:23:57] PHP Warning:  opendir(../images/noticias/44/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:23:57] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:24:08] PHP Warning:  opendir(../images/noticias/42/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:24:08] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:24:18] PHP Warning:  opendir(../images/noticias/41/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:24:18] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:24:23] PHP Warning:  main(../noticias/noticias_lista.php): failed to open stream: No such file or directory in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:24:23] PHP Warning:  main(): Failed opening '../noticias/noticias_lista.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:24:30] PHP Warning:  opendir(../images/noticias/40/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:24:30] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:24:44] PHP Warning:  opendir(../images/noticias/39/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:24:44] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:24:53] PHP Warning:  main(../noticias/noticias_lista.php): failed to open stream: No such file or directory in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:24:53] PHP Warning:  main(): Failed opening '../noticias/noticias_lista.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:25:01] PHP Warning:  opendir(../images/noticias/38/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:25:01] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:25:09] PHP Warning:  main(../noticias/noticias_lista.php): failed to open stream: No such file or directory in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:25:09] PHP Warning:  main(): Failed opening '../noticias/noticias_lista.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:26:59] PHP Warning:  opendir(../images/noticias/37/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:26:59] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:27:11] PHP Warning:  opendir(../images/noticias/36/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:27:11] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:27:20] PHP Warning:  opendir(../images/noticias/35/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:27:20] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:27:24] PHP Warning:  main(../noticias/noticias_lista.php): failed to open stream: No such file or directory in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:27:24] PHP Warning:  main(): Failed opening '../noticias/noticias_lista.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:27:36] PHP Warning:  opendir(../images/noticias/34/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:27:36] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:27:49] PHP Warning:  opendir(../images/noticias/33/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:27:49] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:27:55] PHP Warning:  main(../noticias/noticias_lista.php): failed to open stream: No such file or directory in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:27:55] PHP Warning:  main(): Failed opening '../noticias/noticias_lista.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:28:10] PHP Warning:  opendir(../images/noticias/31/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:28:10] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:28:19] PHP Warning:  opendir(../images/noticias/30/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:28:19] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:28:30] PHP Warning:  opendir(../images/noticias/29/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:28:30] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:28:41] PHP Warning:  opendir(../images/noticias/28/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:28:41] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:28:47] PHP Warning:  main(../noticias/noticias_lista.php): failed to open stream: No such file or directory in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:28:47] PHP Warning:  main(): Failed opening '../noticias/noticias_lista.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:28:58] PHP Warning:  opendir(../images/noticias/27/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:28:58] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:29:15] PHP Warning:  main(../noticias/noticias_lista.php): failed to open stream: No such file or directory in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:29:15] PHP Warning:  main(): Failed opening '../noticias/noticias_lista.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:29:26] PHP Warning:  opendir(../images/noticias/26/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:29:26] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:29:34] PHP Warning:  main(../noticias/noticias_lista.php): failed to open stream: No such file or directory in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:29:34] PHP Warning:  main(): Failed opening '../noticias/noticias_lista.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/spwd/public_html/diolho/admin/query_string.php on line 7
+[06-Dec-2005 16:29:47] PHP Warning:  opendir(../images/noticias/25/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:29:47] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:29:59] PHP Warning:  opendir(../images/noticias/24/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:29:59] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 16:30:08] PHP Warning:  opendir(../images/noticias/22/): failed to open dir: No such file or directory in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 7
+[06-Dec-2005 16:30:08] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/spwd/public_html/diolho/estrutura/noticias/excluir_db.php on line 8
+[06-Dec-2005 17:06:13] PHP Warning:  move_uploaded_file(../images/agenda/sif_destaque.jpg): failed to open stream: No such file or directory in /home/spwd/public_html/diolho/estrutura/agenda/alterar_db.php on line 26
+[06-Dec-2005 17:06:13] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpW8sbrs' to '../images/agenda/sif_destaque.jpg' in /home/spwd/public_html/diolho/estrutura/agenda/alterar_db.php on line 26

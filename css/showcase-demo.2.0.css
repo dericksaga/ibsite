@@ -1,0 +1,77 @@
+body {
+	padding: 0px; margin: 0px; border: 0px;
+	background-color: #7d7d7d;
+	background-image: url(../images/showcase-bg-body.jpg);
+	background-position: top center;
+	background-repeat: no-repeat;
+	font-family: "Trebuchet MS", Tahoma, Arial;
+	color: #000000;
+	font-size: 0.85em;
+}
+
+h1,h2,h3,h4 { margin: 0px 0px 5px 0px; }
+
+div#body {
+	margin: auto auto;
+	width: 770px;
+	background-color: #b7b7b7;
+}
+
+pre { border: solid 1px #dedede; background-color: #cdcdcd; }
+
+div#body div#header {
+	background-image: url(../images/showcase-bg-header.jpg);
+	background-position: 0 0;
+	background-repeat: repeat-x;
+	height: 182px;
+}
+
+div#body div#header ul#ulMenu {
+	margin: 0px; padding: 0px; border: 0px; list-style-type: none;
+}
+
+div#body div#header ul#ulMenu li {
+	float: left;
+	font-size: 1.4em;
+	font-weight: bold;
+	padding-right: 14px;
+}
+
+div#body div#header ul#ulMenu li a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+div#body div#header ul#ulMenu li a:hover { color: #DEDEDE; }
+
+div#body div#header table#tableHeader {
+	margin-left: 18px;
+	margin-right: 18px; 
+}
+
+div#body div#header table#tableHeader td {
+	vertical-align: top;
+}
+
+div#body div#content {
+	background-image: url(../images/showcase-bg-content.jpg);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	border-right: solid 1px #898989;
+	border-left: solid 1px #898989;
+    padding: 0px 18px 0px 18px;
+}
+
+/*div#body div#content a { color: #323232; text-decoration: none; border-bottom: dotted 1px #232323; }*/
+
+.button-big { border:0px; margin-bottom:4px; display:block; }
+.button-big img { border:0px; margin:0px; }
+
+.donate { border:0px; margin:0px; }
+
+p {  margin: 5px 0px 10px 0px; color: #232323; font-size: 0.95em; }
+
+ul.ulDocMain li { margin-bottom: 10px; }
+
+    ul.ulDocMain ul li { margin-bottom: 0px; }
+

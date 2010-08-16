@@ -1,0 +1,43 @@
+<style type="text/css">
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+#vdividermenu ul{
+margin: 0;
+padding: 0;
+margin-bottom: 1em;
+float: center;
+font: bold 100% Tahoma;
+width: 100%;
+border: 1px solid #625e00;
+background-color: #f9ff91;
+}
+
+* html #vdividermenu ul{ /*IE only rule, reduce menu width*/
+width: 100%;
+}
+
+#vdividermenu ul li{
+display: inline;
+}
+
+#vdividermenu ul li a{
+float: left;
+color: black;
+padding: 2px 12px;
+text-decoration: none;
+background: transparent url(../images/vertical.gif) center right no-repeat;
+background-color:#76c5f0;
+}
+
+#vdividermenu ul li a:visited{
+color: black;
+}
+
+#vdividermenu ul li a:hover{
+color: black;
+background-color: #018bd4;
+}
+
+</style>

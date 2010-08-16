@@ -1,0 +1,26 @@
+/* Sample PopBox CSS Classes */
+/* PopBox.js, Copyright (c) 2007, C6 Software, Inc. (http://www.c6software.com/)*/
+
+.PopBoxImageSmall
+{
+	border: 1px solid #76c5f0;
+	cursor: url("images/magplus.cur"), pointer;
+}
+.PopBoxImageLarge
+{
+	border: 3px double #76c5f0;
+	cursor: url("images/magminus.cur"), pointer;
+}
+.PopBoxImageShrink
+{
+	cursor: url("images/magminus.cur"), pointer;
+}
+.PopBoxImageLink
+{
+	cursor: pointer;
+}
+.PopBoxImageMove
+{
+	border: none 0px #ffffff;
+	cursor: pointer;
+}

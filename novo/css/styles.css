@@ -1,0 +1,123 @@
+.menu {
+	font-size: 14px;
+	text-decoration:none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #9e9674;
+	background:url(../images/index_02.jpg) no-repeat center;
+	padding-top:5px;
+	text-align:center;
+}
+.menu a {
+	color: #666;
+	text-decoration:none;
+	padding-left:5px;
+	padding-right:5px;
+}
+.menu a:hover {
+	color: #073508;
+	text-decoration:underline;
+}
+.textos {
+	color:#333;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+.textinho {
+	color:#333;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:15px;
+	text-align:justify;
+}
+.textinho a{
+	color:#333;
+	text-decoration:none;
+
+}
+.textinho a:hover{
+	color:green;
+}
+.titulozinhos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+}
+.titulozinhos p{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#333;
+	font-weight:100;
+	padding-left:50px;
+}
+.titulozinhos h1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#19436d;
+	padding-left:20px;
+}
+.titulozinhos a{
+	color: #19436d;
+	text-decoration:none;
+}
+.titulozinhos a:hover{
+	color: green;
+}
+.noticia {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #333;
+}
+.noticia a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: green;
+}
+.noticia a:hover{
+	color: red;
+}
+.noticia h1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:25px;
+	color: #19436d;
+	font-weight:bold;
+	padding-top:0px;
+	margin-top:0px;
+}
+.noticia h2{
+	font-family: Arial, Helvetica, sans-serif;
+	padding:5px;
+	text-align:center;
+	font-size:12px;
+	font-weight:normal;
+	border-bottom:1px solid silver;
+	border-top:1px solid silver;
+}
+.noticia p{
+	font-family: Arial, Helvetica, sans-serif;
+	padding-left:10px;
+	padding-right:10px;
+	text-align:justify;
+	font-size:12px;
+	font-weight:normal;
+}
+.textopreto{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align:justify;
+	font-size:12px;
+	font-weight:normal;
+}
+.citacao {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #19436d;
+	text-align:center;
+	font-style:italic;
+	letter-spacing:1px;
+}
+.titulocoment{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight:bold;
+	color: #cf7d3d;
+	padding-left:97px;
+	text-align:justify;}

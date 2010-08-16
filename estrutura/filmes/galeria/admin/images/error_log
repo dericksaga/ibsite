@@ -1,0 +1,25 @@
+[07-Jul-2005 22:30:01] PHP Warning:  opendir(../eventos/images/galeria): failed to open dir: No such file or directory in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/fotos_excluir.php on line 15
+[07-Jul-2005 22:30:01] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/fotos_excluir.php on line 17
+[07-Jul-2005 22:30:01] PHP Warning:  opendir(../eventos/images/galeria): failed to open dir: No such file or directory in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/fotos_excluir.php on line 38
+[07-Jul-2005 22:30:01] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/fotos_excluir.php on line 39
+[07-Jul-2005 22:30:01] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/fotos_excluir.php on line 58
+[07-Jul-2005 22:31:03] PHP Warning:  opendir(../eventos/images/galeria): failed to open dir: No such file or directory in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/fotos_alterar.php on line 15
+[07-Jul-2005 22:31:03] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/fotos_alterar.php on line 17
+[07-Jul-2005 22:31:03] PHP Warning:  opendir(../eventos/images/galeria): failed to open dir: No such file or directory in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/fotos_alterar.php on line 38
+[07-Jul-2005 22:31:03] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/fotos_alterar.php on line 39
+[07-Jul-2005 22:31:03] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/fotos_alterar.php on line 57
+[07-Jul-2005 22:31:29] PHP Warning:  unlink(/): Is a directory in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/excluir_arquivo.php on line 3
+[07-Jul-2005 22:31:48] PHP Warning:  main(verifica.php): failed to open stream: No such file or directory in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/criar_pasta.php on line 1
+[07-Jul-2005 22:31:48] PHP Warning:  main(): Failed opening 'verifica.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/criar_pasta.php on line 1
+[07-Jul-2005 22:31:48] PHP Warning:  main(menu.php): failed to open stream: No such file or directory in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/criar_pasta.php on line 1
+[07-Jul-2005 22:31:48] PHP Warning:  main(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/criar_pasta.php on line 1
+[07-Jul-2005 22:31:54] PHP Warning:  main(verifica.php): failed to open stream: No such file or directory in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/criar_dir.php on line 1
+[07-Jul-2005 22:31:54] PHP Warning:  main(): Failed opening 'verifica.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/criar_dir.php on line 1
+[07-Jul-2005 22:31:54] PHP Warning:  main(menu.php): failed to open stream: No such file or directory in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/criar_dir.php on line 1
+[07-Jul-2005 22:31:54] PHP Warning:  main(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/criar_dir.php on line 1
+[07-Jul-2005 22:32:01] PHP Warning:  main(verifica.php): failed to open stream: No such file or directory in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/buscar.php on line 1
+[07-Jul-2005 22:32:01] PHP Warning:  main(): Failed opening 'verifica.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/buscar.php on line 1
+[07-Jul-2005 22:32:01] PHP Warning:  main(menu.php): failed to open stream: No such file or directory in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/buscar.php on line 2
+[07-Jul-2005 22:32:01] PHP Warning:  main(): Failed opening 'menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jump/public_html/sandro/site_eventos/estrutura/galeria/images/buscar.php on line 2
+ 
+

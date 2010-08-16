@@ -1,0 +1,307 @@
+.textos {
+	color:#333;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+.texto {
+	color:#333;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	text-align:justify;
+	padding-left:23px;
+}
+.texto h1{
+	color:#333;
+	font-family:arial;
+	font-size:18px;
+	padding:0px;
+	margin:0px;
+}
+
+.textinho {
+	color:#333;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:13px;
+	text-align:justify;
+}
+.textinho p{
+margin:0px; padding: 10px;}
+
+.textinho a{
+	color:#333;
+	text-decoration:none;
+
+}
+.textinho a:hover{
+	color:green;
+}
+.textinhos {
+	color:#333;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	text-align:justify;
+}
+.textinhos p{
+margin:0px; padding: 0px;}
+
+.textinhos a{
+	color:#333;
+	text-decoration:none;
+
+}
+.textinhos a:hover{
+	color:green;
+}
+.titulozinhos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:16px;
+}
+.titulozinhos p{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color:#333;
+	font-weight:100;
+	padding-left:50px;
+}
+.titulozinhos h1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#19436d;
+	padding-left:20px;
+}
+.titulozinhos a{
+	color: #19436d;
+	text-decoration:none;
+}
+.titulozinhos a:hover{
+	color: green;
+}
+.noticia {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #333;
+}
+.noticia a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: green;
+}
+.noticia a:hover{
+	color: red;
+}
+.noticia h1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:25px;
+	color: #063;
+	padding-top:0px;
+	margin-top:0px;
+	text-align:center;
+	font-weight:normal;
+}
+.noticia h2{
+	font-family: Arial, Helvetica, sans-serif;
+	padding:5px;
+	text-align:center;
+	font-size:12px;
+	font-weight:normal;
+	border-bottom:1px solid silver;
+	border-top:1px solid silver;
+}
+.noticia p{
+	font-family: Arial, Helvetica, sans-serif;
+	padding-left:10px;
+	padding-right:10px;
+	text-align:justify;
+	font-size:12px;
+	font-weight:normal;
+}
+.textopreto{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align:justify;
+	font-size:12px;
+	font-weight:normal;
+}
+.citacao {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #19436d;
+	text-align:center;
+	font-style:italic;
+	letter-spacing:1px;
+}
+.titulocoment{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight:bold;
+	color: #cf7d3d;
+	padding-left:97px;
+	text-align:justify;}
+	
+	
+	
+	body {
+		background-color: white;
+	}
+	
+	#box_principal {
+	
+		width: 955px; 
+		margin: auto;
+	} 
+	
+	
+	/**-------------------------------  TOPO DO INDEX------------------------------------------------*/
+	
+ #banner1 {
+
+	height: 120px; 
+	margin-top: 5px; 
+	margin-left: 0px; 
+
+	
+	
+
+	
+	}
+	
+	#banner1 a+a img{
+		
+	  
+	   margin-top: 10px;
+	   margin-left: 50px;
+		
+		
+	}
+	
+	#iblogo {
+		float: left;
+		
+	}
+	
+	#banner1 img{
+		border: none;
+		
+	}
+	
+	/**------------------------------------------ HEADER ------------------------------------------------------------**/
+	
+	#header {
+		
+		 margin-left: -10px; 
+		 text-align: left;
+		 height: 30px;
+		
+		 
+		
+	}
+	
+	#redessociais {
+		
+		width: 140px;
+		position: relative;
+		left: 820px;
+		top:-38px;
+	
+		
+	}
+	
+#menu_principal {
+	
+	
+	list-style: none;
+	padding: none;
+	margin-left: -40px;
+	margin-top: 20px;
+	padding-top: 9px;
+
+	
+	
+		
+}
+
+#fundo_menu {
+		background-color: #4a0078;
+		background-image: url('../images/degradeduplo.png');
+		background-repeat:repeat-x;
+	    margin-top: 5px;
+		width: 100%;
+		height: 38px;
+		
+		
+	}
+	
+	
+#menu_principal li{
+	
+	margin: none;
+	float: left;
+	padding-left: 1em;
+	padding-right: 1em;
+	border-left: 1px solid #512aab;
+	
+	
+	}
+	
+	#noticias {
+		
+		border-left: none !important;
+		padding-left: 0px;
+	}
+
+	
+	.menu a{
+		
+		
+		color: white;
+		text-decoration:none;
+		font-weight: bold;
+		 text-transform: uppercase; 
+		font-family:  Arial, Helvetica, sans-serif;
+	}
+	
+	.menu a:hover{
+		
+		
+		color: #eb104d;
+	
+	}
+	
+
+	
+	
+	
+	
+/**------------Menu Secundário -----------------------------------------*/
+
+.menu2{display:none;}
+
+
+
+#noticias_categorias{
+	position: absolute;
+	z-index: 50000;
+    padding-top: 10px;
+	margin-left: -2px;
+	list-style: none;
+
+	
+	
+	
+}
+
+#noticias_categorias li{
+	float: none;
+	background-color: white;
+	margin-left: -40px;
+	padding: 6px;
+	
+	border-left: none;
+	opacity:0.9;
+	filter:alpha(opacity=90);
+	
+} 
+
+#noticias_categorias a{color:#303030;}
+#noticias_categorias li:hover{	background-color: #512aab;opacity:1;filter:alpha(opacity=100);}
+#noticias_categorias li:hover a{color:white !important;}
+	

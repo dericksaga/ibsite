@@ -1,0 +1,3 @@
+<?
+include "estrutura/noticias.php";
+?>

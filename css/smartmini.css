@@ -1,0 +1,33 @@
+#navheader {
+	position: relative;
+	margin :0 auto;
+	width: 98%;
+	height: 30px;
+	padding: 0;
+	border-bottom: 1px solid #069;
+	z-index:0;}
+#navheader li {
+	z-index: 3;
+	position: relative;
+	float: left;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font: 13px Arial, Helvetica, sans-serif;
+	font-weight:bold;}
+#navheader li a {
+	display: block;
+	padding: 0 10px;
+	text-decoration: none;
+	border-right:1px solid silver;
+	color: #333;}
+#navheader li a:hover {
+	color: #999;}
+#navheader li.current {
+	z-index: 1;
+	background: transparent url(current_bg.gif) repeat-x bottom;}
+#slider {
+	z-index: 2;
+	position: absolute;
+	height: 29px;
+	border-bottom: 5px solid #069;}

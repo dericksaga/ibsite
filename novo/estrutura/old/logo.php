@@ -1,0 +1,1 @@
+<div style="width:254px; height:202px; position:absolute;"><a href="index.php"><img src="images/logo.png" border="0"></a></div> <!-- logomarca -->
